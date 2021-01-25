@@ -1,0 +1,26 @@
+.post {
+    background-color: lightblue;
+    width: 50%;
+}
+
+h1 {
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border: 5px solid #555;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    padding: 10px;
+}
